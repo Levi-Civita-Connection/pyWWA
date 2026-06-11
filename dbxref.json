@@ -1,0 +1,6 @@
+{
+    "postgis": {
+        "database": "postgis",
+        "host": "postgres-service"
+    }
+}

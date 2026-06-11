@@ -8,7 +8,6 @@ src/pywwa.egg-info
 /last.nts
 /cfg.ini
 /logs
-/dbxref.json
 util/rabbitmq.json
 **/ridge_processor.pid
 /goes/*.nc
